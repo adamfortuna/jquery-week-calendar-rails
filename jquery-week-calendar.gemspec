@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Adam Fortuna"]
   s.email       = ["adam@envylabs.com"]
-  s.homepage    = "https://github.com/adamfortuna/jquery-week-calendar"
+  s.homepage    = "https://github.com/adamfortuna/jquery-week-calendar-rails"
   s.summary     = "Wrapper for the jQuery Week Calendar plugin"
   s.description = "Wrapper for https://github.com/themouette/jquery-week-calendar"
 
